@@ -36,6 +36,9 @@ Em resumo, o projeto visa criar uma plataforma simples e eficaz para localizar C
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
+<p align="center"><b>Créditos: </b></p>
+<p align="center">⏩ <a href="https://www.youtube.com/watch?v=oy4cbqE1_qc" target="_blank">Link Tutorial React Youtube</a></p>
+
 <hr>
 
 <p align="center">2023 - Maria de Fátima Nunes Alves</p>
