@@ -39,6 +39,9 @@ Em resumo, o projeto visa criar uma plataforma simples e eficaz para localizar C
 <p align="center"><b>Créditos: </b></p>
 <p align="center">⏩ <a href="https://www.youtube.com/watch?v=oy4cbqE1_qc" target="_blank">Link Tutorial React Youtube</a></p>
 
+<p align="center"><b>Link do Buscador CEP:</b></p>
+
+<p align="center">🔎 <a href="https://buscador-6su7ux3c6-alvesmariadefatima.vercel.app/" target="_blank">Link Buscador CEP</a></p>
 <hr>
 
 <p align="center">2023 - Maria de Fátima Nunes Alves</p>
