@@ -26,7 +26,7 @@ O site será projetado para atender tanto a pessoas comuns que desejam localizar
 
 Em resumo, o projeto visa criar uma plataforma simples e eficaz para localizar CEPs, proporcionando aos usuários uma ferramenta útil para suas necessidades de busca de endereços e informações de entrega.
 
-**Tecnologias Utilizadas: **
+<p align="center"><b>Tecnologias Utilizadas:</b></p>
 
 <p align="center"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
@@ -34,7 +34,7 @@ Em resumo, o projeto visa criar uma plataforma simples e eficaz para localizar C
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 <hr>
 
